@@ -1,4 +1,10 @@
-### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Ramadhani Dwi Noviansyah**.
+
+Saya seorang **Mahasiswa** di [Universitas Ibn Khaldun Bogor](https://www.uika-bogor.ac.id/).
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Github](https://github.com/ramanoviansyah)ku ya.
 
 <!--
 **ramanoviansyah/ramanoviansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
